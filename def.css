@@ -1,0 +1,30 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    padding-left: 10pc;
+    padding-right: 10pc;
+     padding: bottom 10px; 
+     padding-top: 10pc;
+     margin-top: 1pc;
+     margin-left: 10px;
+     margin-right: 10px;
+     margin-bottom: 10px;
+     background-image: url('WhatsApp Image 2023-05-06 at 13.59.49.jpg');
+}
+h1{
+    background-color: blue;
+    font-size: 50px;
+    font-weight: 100;
+    font-display: 100px;
+    
+}
+h2{
+    background-color: blueviolet;
+
+}
+section ul{
+    font: 50px;
+}
+
+
+
